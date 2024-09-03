@@ -1,4 +1,4 @@
-# CloudScape-Solutions
+# CloudLearn
 
 ## How to install HTTP Server
 
